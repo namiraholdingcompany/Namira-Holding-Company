@@ -8,7 +8,6 @@ Our ecosystem includes:
 - HSIC-DA – Hushiti Supreme consortium for architecture and design
 - Concept Agency – Branding and creative identity studio
 - Hushītī – Architectural brand rooted in heritage
-- LUJO Edition – Ultra-luxury news and curated content
 - IUACA – Iranian Underground Architecture and Construction Association
 - Forte Label – Music, content, and artist branding
 - AuraLapira – An Academic and Curatorial platform dedicated to the study, research, and appreciation of gemstones and jewellery as cultural and artistic expressions
